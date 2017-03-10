@@ -2,14 +2,15 @@
   "name": "examplehubot",
   "version": "0.0.0",
   "private": true,
-  "author": "Haritz Medina <haritzmedina@gmail.com>",
+    "author": "Haritz Medina <haritzmedina@gmail.com>",
   "description": "Testing hubot",
   "main": "./bin/hubot",
   "scripts": {
-    "start": "./bin/hubot"
+    "start": "./bin/hubot -a botframework"
   },
   "dependencies": {
     "hubot": "^2.19.0",
+    "hubot-botframework": "^0.9.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-github-status": "^0.2.1",
     "hubot-google-images": "^0.2.6",
