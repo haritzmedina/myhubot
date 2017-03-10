@@ -2,7 +2,7 @@
   "name": "examplehubot",
   "version": "0.0.0",
   "private": true,
-    "author": "Haritz Medina <haritzmedina@gmail.com>",
+  "author": "Haritz Medina <haritzmedina@gmail.com>",
   "description": "Testing hubot",
   "main": "./bin/hubot",
   "scripts": {
