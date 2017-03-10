@@ -4,7 +4,7 @@
   "private": true,
   "author": "Haritz Medina <haritzmedina@gmail.com>",
   "description": "Testing hubot",
-  "main": "./bin/hubot",
+  "main": "./bin/hubot -a botframework",
   "scripts": {
     "start": "./bin/hubot -a botframework"
   },
